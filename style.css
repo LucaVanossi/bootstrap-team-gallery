@@ -1,5 +1,34 @@
-.Main-Title {
+#Main-Title {
     color: green;
     font-weight: bold;
 }
+
+.container-principale {
+    text-align: center;
+}
+
+#Scritta {
+    color: grey;
+}
+
+.img-fluid {
+    border-radius: 50%;
+}
+
+.Nomi {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+
+.Lavoro {
+    text-align: center;
+    color: grey;
+}
+
+.info {
+    text-align: center;
+}
+
+
 
