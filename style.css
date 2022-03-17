@@ -1,7 +1,12 @@
 #Main-Title {
-    color: green;
+    color: #178f15;
     font-weight: bold;
 }
+
+#Sottotitolo {
+    font-size: large;
+}
+
 
 .container-principale {
     text-align: center;
@@ -17,8 +22,9 @@
 
 .Nomi {
     text-align: center;
-    color: green;
+    color: #178f15;
     font-weight: bold;
+    font-size: large;
 }
 
 .Lavoro {
@@ -28,6 +34,7 @@
 
 .info {
     text-align: center;
+    /*font-size: large;*/
 }
 
 
